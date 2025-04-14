@@ -1,11 +1,11 @@
 Step 1: Download the ZIP File Trip-Visualizer-main
-First, download the ZIP file containing your project from the source.
+First 
 
 Once downloaded, extract it to a folder on your system.
 
 Step 2: Open the Project in Your Code Editor
 
-Open your code editor (such as VS Code, Sublime Text, or WebStorm).
+Open your code editor (such as VS Code).
 
 In the editor, navigate to the extracted project folder.
 
@@ -13,7 +13,7 @@ Open the folder in your editor (usually File > Open Folder).
 
 Step 3: Install Dependencies Using NPM
 
-npm install
+install npm
 
 This will download and install all the necessary packages listed in package.json into a folder called node_modules in the project directory.
 
