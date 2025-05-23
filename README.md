@@ -29,13 +29,8 @@ Displays visual logic for continued, non-continued, and repeated trips using col
    cd angular-trip-visualizer
    
 Install dependencies:
-
-bash
 npm install
 Run the app:
-
-
-bash
 ng serve
 
 Navigate to http://localhost:4200 in your browser.
