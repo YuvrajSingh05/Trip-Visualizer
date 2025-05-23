@@ -34,6 +34,7 @@ bash
 npm install
 Run the app:
 
+
 bash
 ng serve
 
